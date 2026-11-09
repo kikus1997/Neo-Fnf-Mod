@@ -197,3 +197,6 @@ This repository serves as the official landing page for NEO - Friday Night Funki
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of NEO - Friday Night Funkin' Mod today!**
+
+---
+**Last updated:** 2026-11-09 07:42:09 UTC
