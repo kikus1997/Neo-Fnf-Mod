@@ -199,4 +199,4 @@ This repository serves as the official landing page for NEO - Friday Night Funki
 **Get the most recent version of NEO - Friday Night Funkin' Mod today!**
 
 ---
-**Last updated:** 2026-11-11 23:49:57 UTC
+**Last updated:** 2026-11-12 04:51:12 UTC
